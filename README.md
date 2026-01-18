@@ -1,6 +1,6 @@
 # Hi, I'm Ayush 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushd9275@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
 
@@ -65,7 +65,7 @@ Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpeno
 ## 📫 Let's Connect
 
 - 📧 **Email:** ayushd9275@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN)
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ayush-dewangan-0183a63a3)
 
 ---
 
