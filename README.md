@@ -10,10 +10,9 @@
 
 ## About Me
 
-- Final year **Biotechnology** student passionate about computational drug discovery
-- Published research in **Elsevier's In Silico** journal (2026)
-- Currently building cloud infrastructure skills on **GCP + AWS**
-- Goal: Combining bioinformatics with cloud computing for impactful solutions
+I'm a final year **Biotechnology** student passionate about computational drug discovery. I recently published research in **Elsevier's In Silico** journal and I'm now building cloud infrastructure skills on **GCP + AWS**.
+
+My goal is to combine bioinformatics with cloud computing to solve real-world problems.
 
 ---
 
@@ -23,7 +22,7 @@
 > Published in *In Silico Research in Biomedicine* (2026)  
 > [DOI: 10.1016/j.insi.2025.100153](https://doi.org/10.1016/j.insi.2025.100153)
 
-Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using computational methods. Lead compound: **Hederagenin analogue** with ΔGbind of **−17.09 kcal/mol**.
+Identified novel anti-virulence inhibitors for *Listeria monocytogenes*. Lead compound: **Hederagenin analogue** with ΔGbind of **−17.09 kcal/mol**.
 
 [![View Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github)](https://github.com/Aayush-ob/InlH-1H6u-Inhibitor-Discovery)
 
@@ -34,7 +33,7 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using co
 | Project | Description | Status |
 |---------|-------------|--------|
 | [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound virtual screening for cancer therapeutics | In Progress |
-| [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | Learning |
+| [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects | Learning |
 
 ---
 
@@ -59,10 +58,10 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using co
 
 ## Let's Connect
 
-I'm always open to discussing drug discovery, cloud computing, or interesting projects.
+I'm always open to discussing drug discovery, cloud computing, or interesting projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
 
 ---
 
