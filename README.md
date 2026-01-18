@@ -12,7 +12,7 @@
 
 I'm a final year **Biotechnology** student passionate about computational drug discovery. I recently published research in **Elsevier's In Silico** journal and I'm now building cloud infrastructure skills on **GCP + AWS**.
 
-My goal is to combine bioinformatics with cloud computing to solve real-world problems.
+My primary goal is to advance my career in **Cloud Engineering**. I remain deeply interested in **Bioinformatics, Tech, and Science**, leveraging this multidisciplinary background to solve complex problems.
 
 ---
 
@@ -60,8 +60,8 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes*. Lead co
 
 I'm always open to discussing drug discovery, cloud computing, or interesting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushd9275@gmail.com)
 
 ---
 
