@@ -1,29 +1,31 @@
-# Hi, I'm Ayush 👋
+# Hi 👋, I'm Ayush
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushd9275@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+🔬 **Bioinformatics Researcher** | ☁️ **Cloud Learner** | 📄 **Published Author**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushd9275@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obsidian7295)
 
 ---
 
 ## 🧬 About Me
 
-**Bioinformatics Researcher** transitioning to **Cloud Engineering**. Final year student with a passion for computational drug discovery and cloud infrastructure.
-
-- 📄 **Published Researcher** - Paper in *In Silico* Journal (2025)
-- ☁️ **Cloud Computing** - Running large-scale HTVS on GCP
-- 🎯 **Currently Learning** - AWS, GCP, Terraform, Kubernetes
+- 🎓 Final year **Biotechnology** student passionate about computational drug discovery
+- 📝 Published research in **Elsevier's In Silico** journal (2026)
+- ☁️ Currently building cloud infrastructure skills on **GCP + AWS**
+- 🎯 Goal: Combining **bioinformatics + cloud computing** for impactful solutions
 
 ---
 
 ## 📚 Published Research
 
-### Internalin H Inhibitor Discovery
-> *In Silico* (2025) | [DOI: 10.1016/j.insi.2025.100153](https://doi.org/10.1016/j.insi.2025.100153)
+### 🦠 Internalin H Inhibitor Discovery
+> Published in *In Silico Research in Biomedicine* (2026)  
+> [DOI: 10.1016/j.insi.2025.100153](https://doi.org/10.1016/j.insi.2025.100153)
 
-Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpenoid inhibitors. Identified lead compound with ΔGbind of **−17.09 kcal/mol**.
+Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using computational methods. Lead compound: **Hederagenin analogue** with ΔGbind of **−17.09 kcal/mol**.
 
-[![Repo](https://img.shields.io/badge/GitHub-InlH_Discovery-181717?style=flat&logo=github)](https://github.com/Aayush-ob/InlH-1H6u-Inhibitor-Discovery)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github)](https://github.com/Aayush-ob/InlH-1H6u-Inhibitor-Discovery)
 
 ---
 
@@ -31,42 +33,36 @@ Novel anti-virulence therapy targeting *Listeria monocytogenes* using triterpeno
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound HTVS for cancer therapeutics on GCP | 🔄 In Progress |
+| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound virtual screening for cancer therapeutics | 🔄 In Progress |
 | [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | 📚 Learning |
 
 ---
 
-## 🛠️ Skills
-
-**Cloud & Infrastructure**
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🛠️ Tech Stack
 
 **Scientific Computing**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GROMACS](https://img.shields.io/badge/GROMACS-FF6B6B?style=flat)
-![AutoDock](https://img.shields.io/badge/AutoDock_Vina-4CAF50?style=flat)
-![PyMOL](https://img.shields.io/badge/PyMOL-1E88E5?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GROMACS](https://img.shields.io/badge/GROMACS-FF6B6B?style=for-the-badge)
+![AutoDock](https://img.shields.io/badge/AutoDock_Vina-4CAF50?style=for-the-badge)
+![PyMOL](https://img.shields.io/badge/PyMOL-1E88E5?style=for-the-badge)
+
+**Cloud & DevOps** *(Learning)*
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush-ob&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+I'm always excited to discuss drug discovery, cloud computing, or interesting projects!
 
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** ayushd9275@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ayush-dewangan-0183a63a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
 
 ---
 
-*"Combining computational biology with cloud engineering to solve real-world problems."*
+*"Combining computational biology with cloud engineering to solve real-world problems."* ✨
