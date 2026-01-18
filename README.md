@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ayush
+# Hi, I'm Ayush 👋
 
-🔬 **Bioinformatics Researcher** | ☁️ **Cloud Learner** | 📄 **Published Author**
+**Bioinformatics Researcher** | **Cloud Learner** | **Published Author**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushd9275@gmail.com)
@@ -8,18 +8,18 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
-- 🎓 Final year **Biotechnology** student passionate about computational drug discovery
-- 📝 Published research in **Elsevier's In Silico** journal (2026)
-- ☁️ Currently building cloud infrastructure skills on **GCP + AWS**
-- 🎯 Goal: Combining **bioinformatics + cloud computing** for impactful solutions
+- Final year **Biotechnology** student passionate about computational drug discovery
+- Published research in **Elsevier's In Silico** journal (2026)
+- Currently building cloud infrastructure skills on **GCP + AWS**
+- Goal: Combining bioinformatics with cloud computing for impactful solutions
 
 ---
 
-## 📚 Published Research
+## Published Research
 
-### 🦠 Internalin H Inhibitor Discovery
+### Internalin H Inhibitor Discovery
 > Published in *In Silico Research in Biomedicine* (2026)  
 > [DOI: 10.1016/j.insi.2025.100153](https://doi.org/10.1016/j.insi.2025.100153)
 
@@ -29,16 +29,16 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using co
 
 ---
 
-## 🔬 Current Projects
+## Current Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound virtual screening for cancer therapeutics | 🔄 In Progress |
-| [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | 📚 Learning |
+| [GPR55 Antagonist Discovery](https://github.com/Aayush-ob/GPR55-Antagonist-Discovery) | 35K compound virtual screening for cancer therapeutics | In Progress |
+| [Cloud Portfolio](https://github.com/Aayush-ob/Cloud-Portfolio) | Multi-cloud infrastructure projects (AWS + GCP) | Learning |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Scientific Computing**
 
@@ -56,13 +56,13 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using co
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'm always excited to discuss drug discovery, cloud computing, or interesting projects!
+I'm always open to discussing drug discovery, cloud computing, or interesting projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-dewangan-0183a63a3)
-[![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ayushd9275@gmail.com)
 
 ---
 
-*"Combining computational biology with cloud engineering to solve real-world problems."* ✨
+*Combining computational biology with cloud engineering to solve real-world problems.*
