@@ -40,19 +40,18 @@ Identified novel anti-virulence inhibitors for *Listeria monocytogenes* using co
 
 ## Tech Stack
 
-**Scientific Computing**
+**Tools I Use**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GROMACS](https://img.shields.io/badge/GROMACS-FF6B6B?style=for-the-badge)
 ![AutoDock](https://img.shields.io/badge/AutoDock_Vina-4CAF50?style=for-the-badge)
 ![PyMOL](https://img.shields.io/badge/PyMOL-1E88E5?style=for-the-badge)
 
-**Cloud & DevOps** *(Learning)*
+**Currently Learning**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
